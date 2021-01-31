@@ -11,3 +11,5 @@ Cette API est particulièrement pensée pour le RL.
 
 Dans ce dépôt, on retrouve principalement les exemples fournis dans la documentation officielle de l'API, et un implémentation de joueur à base de DQN dans les fichiers **rl_player_***. Il utilise keras-rl2.
 Ce joueur bat le joueur aléatoire avec 99% de chances.
+
+![Screen Showdown](https://github.com/ScarfZapdos/showdownbot/blob/main/showdownbotscreen.PNG)
